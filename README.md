@@ -63,7 +63,7 @@
 
 - **Portfolio:** [your-portfolio-website.com](https://your-portfolio-website.com)
 - **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- **Email:** [your.email@domain.com](mailto:rubenfteixeira@gmail.com
+- **Email:** [your.email@domain.com](mailto:rubenfteixeira@gmail.com)
   
 
 <p align="center">
