@@ -57,41 +57,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&count_private=true" />
-  </a>
-  <br/>
-  <a href="#">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" />
-  </a>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🚀 [Awesome Project 1](https://github.com/your-github-username/project-1)
-> A brief, impactful description of your project. What problem does it solve? What tech did you use?
->
-> **Tech:** `React` `Node.js` `MongoDB` `Express`
-
-### 🎯 [Awesome Project 2](https://github.com/your-github-username/project-2)
-> Another cool project description. Highlight key features and your role.
->
-> **Tech:** `Python` `Django` `PostgreSQL` `Docker`
-
-### 🔥 [Awesome Project 3](https://github.com/your-github-username/project-3)
-> A description for your third featured project.
->
-> **Tech:** `TypeScript` `Next.js` `Tailwind CSS` `Vercel`
-
 ---
 
 ## 📫 Let's Connect!
