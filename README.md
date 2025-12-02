@@ -63,11 +63,8 @@
 
 - **Portfolio:** [your-portfolio-website.com](https://your-portfolio-website.com)
 - **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- **Email:** [your.email@domain.com](mailto:rubenfteixeira@gmail.com)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+- **Email:** [your.email@domain.com](mailto:rubenfteixeira@gmail.com
+  
 
 <p align="center">
   <i>⭐ Feel free to check out my repositories and get in touch!</i>
