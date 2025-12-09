@@ -3,10 +3,10 @@
 </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/rubenfteixeira">
+  <a href="https://www.linkedin.com/in/rubenfteixeira">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://rubenfteixeira.netlify.com">
+  <a href="https://rubenfteixeira.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:rubenfteixeira@gmail.com">
