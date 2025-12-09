@@ -61,9 +61,9 @@
 
 ## 📫 Let's Connect!
 
-- **Portfolio:** [your-portfolio-website.com](https://rubenfteixeira.netlify.app/))
-- **LinkedIn:** [linkedin.com/in/your-linkedin](www.linkedin.com/in/rubenfteixeira)
-- **Email:** [your.email@domain.com](mailto:rubenfteixeira@gmail.com)
+- **Portfolio:** [https://rubenfteixeira.netlify.app/]https://rubenfteixeira.netlify.app/))
+- **LinkedIn:** [www.linkedin.com/in/rubenfteixeira](www.linkedin.com/in/rubenfteixeira)
+- **Email:** [mailto:rubenfteixeira@gmail.com](mailto:rubenfteixeira@gmail.com)
   
 
 <p align="center">
